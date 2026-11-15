@@ -10,7 +10,7 @@ from pydantic import BaseModel, Field
 from google import genai
 from google.genai import types
 
-MODEL_NAME = "gemini-2.5-pro"
+MODEL_NAME = "gemini-3.1-pro-preview"
 
 PROTAGONIST = "glossy white 2D stickman"
 START_LOCATION = (
